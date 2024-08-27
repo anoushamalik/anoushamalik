@@ -1,4 +1,4 @@
-## Welcome to My GitHub! 👋
+## Welcome to My GitHub! 
 
 ### About Me
 
@@ -8,7 +8,7 @@ Hi! I'm **Anousha Malik**, an undergraduate Electrical Engineering student at Na
 
 I’m passionate about Machine Learning and IC design verification projects. My current work involves understanding Embedded C Programming and delving into RISC-V to understand its ISA and its GCC toolchain. I'm also interested in integrating Machine Learning and Artificial Intelligence into these projects to incorporate the latest technologies.
 
-I have hands-on experience with embedded systems and microcontrollers like AVR32. I aim to explore Silicon Valley's innovations in chip technology and dive deeper into the world of robotics and automation. I'm also looking forward to contributing to open-source projects and collaborating with fellow engineers and developers.
+I have hands-on experience with embedded systems and microcontrollers like AVR32. I aim to explore Silicon Valley's innovations in chip technology and dive deeper into the world of robotics and automation. I also look forward to contributing to open-source projects and collaborating with fellow engineers and developers.
 
 ### My Work
 
