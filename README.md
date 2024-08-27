@@ -27,6 +27,7 @@ I’m always open to collaboration and welcome contributions to my repositories.
 
 This repository is licensed under the [MIT License](https://choosealicense.com/licenses/mit/). By contributing to this project, you agree that your contributions will be licensed under its MIT License.
 
-Clone the repository: https://github.com/yourusername/yourrepository.git
+### To Connect
+Clone the repository : https://github.com/yourusername/yourrepository.git
 <br>
-Contact: anousha2021@namal.edu.pk 
+Contact : anousha2021@namal.edu.pk 
