@@ -23,11 +23,8 @@ I’m always open to collaboration and welcome contributions to my repositories.
 3. **Submit a Pull Request**: Once your changes are ready, submit a pull request to the original repository. Provide a clear description of the changes and any related issues.
 4. **Review and Merge**: I’ll review your pull request, and once everything looks good, I’ll merge it into the main branch.
 
-### License
-
-This repository is licensed under the [MIT License](https://choosealicense.com/licenses/mit/). By contributing to this project, you agree that your contributions will be licensed under its MIT License.
 
 ### To Connect
-Clone the repository : https://github.com/yourusername/yourrepository.git
+Clone the repository: https://github.com/yourusername/yourrepository.git
 <br>
-Contact : anousha2021@namal.edu.pk 
+Contact: anousha2021@namal.edu.pk 
