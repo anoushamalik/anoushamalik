@@ -12,7 +12,7 @@ I have hands-on experience with embedded systems and microcontrollers like AVR32
 
 ### My Work
 
-My current repositories showcase a range of projects, from beginner to advanced, that I've undertaken individually and in groups at my university. Recently, I’ve worked with GNU Radio, an open-source software, to learn about how it reflects the modulation system of transmission and reception. Additionally, I’ve gained experience with Cisco networking, which has deepened my understanding of communication networks. Earlier in my academic journey, I completed various programming projects, from mini to major, using languages such as C++, C, Python, and Verilog.
+My current repositories showcase various projects, from beginner to advanced, that I've undertaken individually and in groups at my university. Recently, I've been working on a RISC-V Processor Design. I have already implemented a Single Cycle Processor, and now I'm going towards the five-stage pipeline Processor. I’ve worked with GNU Radio, an open-source software, to learn how it reflects the transmission and reception modulation system. Additionally, I’ve gained experience with Cisco networking, which has deepened my understanding of communication networks. Earlier in my academic journey, I completed various programming projects using languages such as C++, C, Python, and Verilog, from mini to major.
 
 ### How to Collaborate and Contribute
 
