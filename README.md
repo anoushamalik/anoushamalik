@@ -2,7 +2,7 @@
 
 ### About Me
 
-Hi! I'm **Anousha Malik**, an undergraduate Electrical Engineering student at Namal University.
+Hi! I'm **Anousha Malik**, a graduate Electrical Engineer.
 
 ### What I Do
 
