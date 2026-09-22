@@ -27,4 +27,4 @@ I’m always open to collaboration and welcome contributions to my repositories.
 ### To Connect
 Clone the repository: https://github.com/yourusername/yourrepository.git
 <br>
-Contact: anousha2021@namal.edu.pk 
+Contact: anoushamalik89@gmail.com 
